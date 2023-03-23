@@ -1,7 +1,7 @@
 {
   "name": "demo-deploy",
   "version": "1.0.0",
-  "description": "packages ",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/akshaytayade/demo-deploy.git"
   },
-  "author": "Akshay",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/akshaytayade/demo-deploy/issues"
